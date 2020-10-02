@@ -32,6 +32,7 @@ Maybe I can display a list of z known paths and then search and choose the corre
 #### fzf for the help
 fzf is a command-line fuzzy finder. one way to use it will be to pipe a list to the command like `ls | fzf`. It will then lunch an interactive program letting you filter and choose item from the list, the selected item will be printed.
 
+![Alt Text](/assets/fzf-example-vim.gif)
 
 I
 I prefer to confirm the result on the screen before entering the directory.
