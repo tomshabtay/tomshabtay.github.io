@@ -55,3 +55,6 @@ plugins:
 
 minima:
   skin: dark
+
+# Google Analytics
+google_analytics: UA-179500695-1
