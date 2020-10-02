@@ -30,8 +30,10 @@ linkedin_username: tomshabtay
 
 # Build settings
 theme: minima
+whitelist: [jekyll-analytics]
 plugins:
   - jekyll-feed
+  - jekyll-analytics
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -55,3 +57,8 @@ plugins:
 
 minima:
   skin: dark
+
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: UA-179500695-1          # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
