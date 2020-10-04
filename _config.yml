@@ -21,8 +21,7 @@
 title: tomshabtay
 email: tomshabtay@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  In this blog you can read about things I find interesting,
-  code and general stuff.
+  Code tech and other stuff.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  tomshabtay
@@ -30,8 +29,8 @@ linkedin_username: tomshabtay
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+# plugins:
+  # - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
