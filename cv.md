@@ -10,19 +10,19 @@ In my current workplace, I'm developing NodeJS (TypeScript) services in large sc
 ### Work Experience
  
 #### DynamicYield - Back-end developer
-Jan 2020 - Present
+**2020 Jan - Present**
 <br>
 
 #### WAY2VAT - Back-end developer
-2019 Feb - Jan 2020
+**2019 Feb - 2020 Jan**
 <br>
 In this role I developed NodeJS services, from design to deployment and maintenance.
 - Developed a service to manage data transfer from Accounting APIs (Xero, Expensify)
 - Created a CICD in CicleCI to deploy our services in ECS.
 - Technologies: MySQL, Redis, MongoDB, SQS, ElasticSearch, Docker-compose.
  
-#### Ewave Mobile - Full-stack developer
-2017 Sep - 2019 Feb
+#### 2017 Sep - 2019 Feb - Ewave Mobile - Full-stack developer
+**2017 Sep - 2019 Feb**
 <br>
 In this role I was mainly creating Mobile apps and APIs.
 - Developed Mobile Applications: Native IOS App (Swift) and a cross-platform Mobile App in NativeScript (Angular).
