@@ -4,12 +4,10 @@ title: CV
 permalink: /CV/
 ---
  
-#### Profile
- 
 I'm a dedicated full-time Back-end developer, graduated B.sc Computer Science with industry experience of 4+ years.
 In my current workplace, I'm developing NodeJS (TypeScript) services in large scale. I'm a fast learner, eager to understand how stuff works under the hood and always drawn into working on a side-projects and games.
  
-#### Work Experience
+### Work Experience
  
 #### DynamicYield - Back-end developer
 Jan 2020 - Present
@@ -31,7 +29,7 @@ In this role I was mainly creating Mobile apps and APIs.
 - Developed Web Applications (Angular).
 - Developed serverless Java APIs (AWS Lambda, Api Gateway): Push Notification manager and custom authentication API for our NativeScript Apps (AWS Cognito).
  
-#### Technical Experience
+### Technical Experience
  
 - Mainly Used Languages: TypeScript, JavaScript, SQL, Bash, Java.
 - Databases: MySQL, Redis, MongoDB, ElasticSearch.
@@ -42,14 +40,14 @@ In this role I was mainly creating Mobile apps and APIs.
 - Preferred Tools: macOSX, VSCode, Tmux, Emacs, Vim.
  
  
-#### Education 
+### Education 
 #### 2014-2017: Science (B.sc), Computer Science
 College of Management Academic Studies, Rishon Lezion.
 ##### Final Project:
 A System to manage linux devices remotely. (Java, Javascript, Handlebar.js, Spark).
-#### Volunteering
+### Volunteering
 #### 2021 - Present: Itworks 
 Mentored a cs student and helped him land his first job in the industry.
 
-#### Military Service
+### Military Service
 Engineer at IDF Air Force, Tested and fixed parts of the Black Hawk aircraft.
