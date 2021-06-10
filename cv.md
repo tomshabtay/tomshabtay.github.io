@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CV
-permalink: /CV/
+title: Resume
+permalink: /resume/
 ---
  
 I'm a dedicated full-time Back-end developer, graduated B.sc Computer Science with industry experience of 4+ years.
