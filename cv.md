@@ -11,11 +11,11 @@ In my current workplace, I'm developing NodeJS (TypeScript) services in large sc
  
 #### Work Experience
  
-##### DynamicYield - Back-end developer
+#### DynamicYield - Back-end developer
 Jan 2020 - Present
 <br>
 
-##### WAY2VAT - Back-end developer
+#### WAY2VAT - Back-end developer
 2019 Feb - Jan 2020
 <br>
 In this role I developed NodeJS services, from design to deployment and maintenance.
@@ -23,7 +23,7 @@ In this role I developed NodeJS services, from design to deployment and maintena
 - Created a CICD in CicleCI to deploy our services in ECS.
 - Technologies: MySQL, Redis, MongoDB, SQS, ElasticSearch, Docker-compose.
  
-##### Ewave Mobile - Full-stack developer
+#### Ewave Mobile - Full-stack developer
 2017 Sep - 2019 Feb
 <br>
 In this role I was mainly creating Mobile apps and APIs.
@@ -43,13 +43,13 @@ In this role I was mainly creating Mobile apps and APIs.
  
  
 #### Education 
-##### 2014-2017: Science (B.sc), Computer Science
+#### 2014-2017: Science (B.sc), Computer Science
 College of Management Academic Studies, Rishon Lezion.
 ##### Final Project:
 A System to manage linux devices remotely. (Java, Javascript, Handlebar.js, Spark).
-## Volunteering
-##### 2021 - Present: Itworks 
+#### Volunteering
+#### 2021 - Present: Itworks 
 Mentored a cs student and helped him land his first job in the industry.
 
-## Military Service
+#### Military Service
 Engineer at IDF Air Force, Tested and fixed parts of the Black Hawk aircraft.
