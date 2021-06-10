@@ -9,11 +9,11 @@ In my current workplace, I'm developing NodeJS (TypeScript) services in large sc
  
 ### Work Experience
  
-#### DynamicYield - Back-end developer
+#### **DynamicYield** - Back-end developer
 **2020 Jan - Present**
 <br>
 
-#### WAY2VAT - Back-end developer
+#### **WAY2VAT** - Back-end developer
 **2019 Feb - 2020 Jan**
 <br>
 In this role I developed NodeJS services, from design to deployment and maintenance.
@@ -21,7 +21,7 @@ In this role I developed NodeJS services, from design to deployment and maintena
 - Created a CICD in CicleCI to deploy our services in ECS.
 - Technologies: MySQL, Redis, MongoDB, SQS, ElasticSearch, Docker-compose.
  
-#### 2017 Sep - 2019 Feb - Ewave Mobile - Full-stack developer
+####  **Ewave Mobile** - Full-stack developer
 **2017 Sep - 2019 Feb**
 <br>
 In this role I was mainly creating Mobile apps and APIs.
@@ -31,12 +31,12 @@ In this role I was mainly creating Mobile apps and APIs.
  
 ### Technical Experience
  
-- Mainly Used Languages: TypeScript, JavaScript, SQL, Bash, Java.
-- Databases: MySQL, Redis, MongoDB, ElasticSearch.
-- Dev-ops tools: Docker, Kubernetis, Jenkins, CircleCI, AWS CLI, Terraform, Helm, 
-- AWS: ECR, ECS, ECK, Sagemaker, Cloudwatch, EC2, Security Groups ,Load Balancer, VPC, SQS, Lambda, API Gateway, Cognito, S3.
+- **Mainly Used Languages**: TypeScript, JavaScript, SQL, Bash, Java.
+- **Databases**: MySQL, Redis, MongoDB, ElasticSearch.
+- **Dev-ops tools**: Docker, Kubernetis, Jenkins, CircleCI, AWS CLI, Terraform, Helm, 
+- **AWS**: ECR, ECS, ECK, Sagemaker, Cloudwatch, EC2, Security Groups ,Load Balancer, VPC, SQS, Lambda, API Gateway, Cognito, S3.
 - Front-end: Nativescript, Swift,Android, Angular, HTML, CSS.
-- Fun Projects: Web crawlers, Games (Godot, libGDX), Chat-Bots, CLIs.
+- **Fun Projects**: Web crawlers, Games (Godot, libGDX), Chat-Bots, CLIs.
 - Preferred Tools: macOSX, VSCode, Tmux, Emacs, Vim.
  
  
