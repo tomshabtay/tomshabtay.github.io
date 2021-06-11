@@ -18,6 +18,14 @@ In my current workplace, I'm developing NodeJS (TypeScript) services in large sc
 #### **DynamicYield** - Back-end developer
 **2020 Jan - Present**
 <br>
+In this role I developed the backend side of our recommendation engine.
+- Developed a new recommendation strategy that uses AI trained models from past transactions to determine best recommendation.
+- Worked in very large scale, we served thousands requests per hour from different regions.
+- Occasionally held support shifts and debugged issues in our system.
+- Helped devs from other teams and developed internal tools to automate some boring tasks.
+- Held presentations of newly developed features.
+- Created guides and documented my features.
+Technologies: Typescript, MySql, Redis, Kubernetis, AWS, Kafka, ElasticSearch.
 
 #### **WAY2VAT** - Back-end developer
 **2019 Feb - 2020 Jan**
