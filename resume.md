@@ -4,10 +4,6 @@ title: Resume
 permalink: /resume/
 ---
 [Download Resume as PDF file](https://github.com/tomshabtay/tomshabtay.github.io/raw/master/assets/resume.pdf)
-<!-- ## Tom Shabtay
-### Back-end Developer
-
-**blog**: [tomshabtay.com](tomshabtay.com) | **email**: [tomshabtay@gmail.com](tomshabtay@gmail.com) | **linkedin**: [linkedin.com/in/tomshabtay](www.linkedin.com/in/tomshabtay) | **github**: [github.com/tomshabtay](www.github.com/tomshabtay) -->
 
 ### Profile 
 I'm a dedicated full-time Back-end developer, graduated B.sc Computer Science with industry experience of 4+ years.
