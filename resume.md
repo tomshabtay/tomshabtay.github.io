@@ -3,6 +3,7 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
+[Download Resume as PDF file](https://github.com/tomshabtay/tomshabtay.github.io/raw/master/assets/resume.pdf)
 ## Tom Shabtay
 ### Back-end Developer
 
