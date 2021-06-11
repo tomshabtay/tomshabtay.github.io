@@ -23,9 +23,9 @@ In my current workplace, I'm developing NodeJS (TypeScript) services in large sc
 **2019 Feb - 2020 Jan**
 <br>
 In this role I developed NodeJS services, from design to deployment and maintenance.
-- Developed a service to manage data transfer from Accounting APIs (Xero, Expensify)
+- Developed a service to manage data transfer from Accounting APIs (Xero, Expensify), supporting large scale and used webhooks to pull new data over time.
 - Created a CICD in CicleCI to deploy our services in ECS.
-- Technologies: MySQL, Redis, MongoDB, SQS, ElasticSearch, Docker-compose.
+- Technologies: TypeScript, MySQL, Redis, MongoDB, SQS, ElasticSearch, Docker-compose.
  
 ####  **Ewave Mobile** - Full-stack developer
 **2017 Sep - 2019 Feb**
