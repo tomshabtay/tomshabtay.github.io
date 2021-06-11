@@ -3,7 +3,12 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
- 
+## Tom Shabtay
+### Back-end Developer
+
+**blog**: [tomshabtay.com](tomshabtay.com) | **email**: [tomshabtay@gmail.com](tomshabtay@gmail.com) | **linkedin**: [linkedin.com/in/tomshabtay](www.linkedin.com/in/tomshabtay) | **github**: [github.com/tomshabtay](www.github.com/tomshabtay)
+
+### Profile 
 I'm a dedicated full-time Back-end developer, graduated B.sc Computer Science with industry experience of 4+ years.
 In my current workplace, I'm developing NodeJS (TypeScript) services in large scale. I'm a fast learner, eager to understand how stuff works under the hood and always drawn into working on a side-projects and games.
  
@@ -35,9 +40,10 @@ In this role I was mainly creating Mobile apps and APIs.
 - **Databases**: MySQL, Redis, MongoDB, ElasticSearch.
 - **Dev-ops tools**: Docker, Kubernetis, Jenkins, CircleCI, AWS CLI, Terraform, Helm, 
 - **AWS**: ECR, ECS, ECK, Sagemaker, Cloudwatch, EC2, Security Groups ,Load Balancer, VPC, SQS, Lambda, API Gateway, Cognito, S3.
-- Front-end: Nativescript, Swift,Android, Angular, HTML, CSS.
+- **Monitoring tools**: Kibana, Grafana.
+- **Front-end**: Nativescript, Swift,Android, Angular, HTML, CSS.
 - **Fun Projects**: Web crawlers, Games (Godot, libGDX), Chat-Bots, CLIs.
-- Preferred Tools: macOSX, VSCode, Tmux, Emacs, Vim.
+- **Preferred Tools**: macOSX, VSCode, Tmux, Emacs, Vim.
  
  
 ### Education 
