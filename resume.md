@@ -4,10 +4,10 @@ title: Resume
 permalink: /resume/
 ---
 [Download Resume as PDF file](https://github.com/tomshabtay/tomshabtay.github.io/raw/master/assets/resume.pdf)
-## Tom Shabtay
+<!-- ## Tom Shabtay
 ### Back-end Developer
 
-**blog**: [tomshabtay.com](tomshabtay.com) | **email**: [tomshabtay@gmail.com](tomshabtay@gmail.com) | **linkedin**: [linkedin.com/in/tomshabtay](www.linkedin.com/in/tomshabtay) | **github**: [github.com/tomshabtay](www.github.com/tomshabtay)
+**blog**: [tomshabtay.com](tomshabtay.com) | **email**: [tomshabtay@gmail.com](tomshabtay@gmail.com) | **linkedin**: [linkedin.com/in/tomshabtay](www.linkedin.com/in/tomshabtay) | **github**: [github.com/tomshabtay](www.github.com/tomshabtay) -->
 
 ### Profile 
 I'm a dedicated full-time Back-end developer, graduated B.sc Computer Science with industry experience of 4+ years.
@@ -25,6 +25,7 @@ In this role I developed the backend side of our recommendation engine.
 - Helped devs from other teams and developed internal tools to automate some boring tasks.
 - Held presentations of newly developed features.
 - Created guides and documented my features.
+
 Technologies: Typescript, MySql, Redis, Kubernetis, AWS, Kafka, ElasticSearch.
 
 #### **WAY2VAT** - Back-end developer
